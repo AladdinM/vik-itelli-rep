@@ -1,2 +1,2 @@
 # vik-itelli-rep
-This just for test
+This is just for test
